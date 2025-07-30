@@ -1,1 +1,1 @@
-### Simple Pokedec
+### Simple Pokedex
